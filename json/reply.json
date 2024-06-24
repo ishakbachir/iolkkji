@@ -1,0 +1,27 @@
+{
+    "927588754": {
+        "replyid": 927588754,
+        "command": "مساعدة",
+        "reply": "اتجه نحو الدعم الفني و افتح تذكرة"
+    },
+    "2109750328": {
+        "replyid": 2109750328,
+        "command": "help",
+        "reply": "Go to technical support and open a ticket"
+    },
+    "6187414044": {
+        "replyid": 6187414044,
+        "command": "السلام",
+        "reply": "و عليكم السلام"
+    },
+    "6205327272": {
+        "replyid": 6205327272,
+        "command": ".",
+        "reply": "Welcome To Server Shop SH"
+    },
+    "6342735894": {
+        "replyid": 6342735894,
+        "command": "تقديم ادارة",
+        "reply": "> هنا : https://discord.com/channels/1184807332639686717/1187185325487956059"
+    }
+}
